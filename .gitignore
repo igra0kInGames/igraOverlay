@@ -1,0 +1,6 @@
+.venv
+.idea
+__pycache__
+conf.json
+last_pos_program.json
+.env
